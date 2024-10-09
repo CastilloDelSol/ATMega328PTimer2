@@ -1,0 +1,5 @@
+ATMega328PTimer2    KEYWORD1
+initialize      KEYWORD2
+start           KEYWORD2
+stop            KEYWORD2
+setPrescaler    KEYWORD2
